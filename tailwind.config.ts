@@ -9,18 +9,16 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-      'dark-gray' : '#303030',
-      'light-gray' : '#787878',
-      'black' : '#151515',
-      'brown' : '#9D6C41',
-      'gold' : '#C28855',
-      'beige' : '#F4D4B4',
-      'light-beige' : '#F5ECE2',
-      'orange' : '#E2982F',
-      'dark-blue' : '#3C4959',
-      'light-blue' : '#2c5163',
-        'blue-link' : '#03a9f4',
-        'purple-footer' : '#8d8ba7'
+        'dark-gray' : '#303030',
+        'light-gray' : '#787878',
+        'black' : '#151515',
+        'azul-oscuro': '#123456',
+        'azul-claro': '#abcdef',
+        'azul-fuerte': '#17A7B6',
+        'azul-clarito': '#27AAE1',
+        'azul-iconos': '#1681E5',
+        'rojo-extremo': '#ff0000',
+        'gris-footer': '#f2f2f2'
       }
     },
   },
