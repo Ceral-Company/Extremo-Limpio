@@ -8,12 +8,12 @@ function Hero() {
         <div>
             {/*PC*/}
             <div className="sm:flex hidden">
-                <Image alt="Fondo Coliseo y mundo" className="h-full w-full" src={ImgFondo}/>
+                <Image alt="FondoPC" className="h-full w-full" src={ImgFondo}/>
             </div>
 
             {/*FondoCel*/}
             <div className="sm:hidden">
-                <Image alt="FondoPC" className="h-full w-full" src={ImgFondoCel}/>
+                <Image alt="FondoCel" className="h-full w-full" src={ImgFondoCel}/>
             </div>
 
         </div>
