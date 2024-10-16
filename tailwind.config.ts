@@ -12,6 +12,7 @@ const config: Config = {
         'dark-gray' : '#303030',
         'light-gray' : '#787878',
         'black' : '#151515',
+        'yellow' : '#FFC107',
         'azul-oscuro': '#123456',
         'azul-claro': '#abcdef',
         'azul-fuerte': '#17A7B6',
